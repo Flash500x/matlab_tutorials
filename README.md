@@ -7,4 +7,4 @@ This repo provides basic programs done using Matlab. Anyone who wants to get an 
 <h3>cosplotwave</h3>
 <li>This code generates a cosine wave. https://github.com/Flash500x/matlab_tutorials/blob/main/cosplotwave.m</li>
 <h3>VI-chara of diode</h3>
-<li>This code generates a cosine wave. https://github.com/Flash500x/matlab_tutorials/blob/main/VI-chara%20of%20diode.m</li>
+<li>This code generates the output characteristics of a diode. https://github.com/Flash500x/matlab_tutorials/blob/main/VI-chara%20of%20diode.m</li>

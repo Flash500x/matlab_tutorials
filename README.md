@@ -1,4 +1,4 @@
-# Matlab_tutorials
+<h1>Matlab_tutorials </h1> 
 This repo provides basic programs done using Matlab. Anyone who wants to get an introduction to Matlab can utilize this repository.
 <h3>first_test.m</h3>
 <li>This code simulates the functioning of a normal calculator. https://github.com/Flash500x/matlab_tutorials/blob/main/first_test.m</li>

@@ -1,0 +1,4 @@
+randi(i_max,N) - This command creates a matrix of order NxN and the elements will vary from 1 to i_max.
+eg: randi(2,4) - This creates a matrix of order 4x4. with elements 1&2.
+randn(k) - creates a (k x k) matrix with normally distributed random values. // to get very small positive and negative values in a matrix.
+rand(k) - returns a (k x k) matrix of uniformly distributed random values. // the elements will be between 0 and 1.

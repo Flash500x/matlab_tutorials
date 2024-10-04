@@ -35,3 +35,8 @@ https://github.com/Flash500x/matlab_tutorials/blob/main/comp.m
 <h3>eigen.m</h3>
 <li>This code find the rank and eigen values of a matrix</li>
 https://github.com/Flash500x/matlab_tutorials/blob/main/eigen.m
+
+
+<h3>graphs.m</h3>
+<li>This code prints: sine wave , hyperbolic-cos and sine and a cos wave</li>
+https://github.com/Flash500x/matlab_tutorials/blob/main/graphs.m
